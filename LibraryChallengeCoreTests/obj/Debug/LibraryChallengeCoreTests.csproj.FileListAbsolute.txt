@@ -1,0 +1,9 @@
+C:\TFarmer\librarychallenge\LibraryChallengeCoreTests\bin\Debug\LibraryChallengeCoreTests.dll
+C:\TFarmer\librarychallenge\LibraryChallengeCoreTests\bin\Debug\LibraryChallengeCoreTests.pdb
+C:\TFarmer\librarychallenge\LibraryChallengeCoreTests\bin\Debug\LibraryChallengeCore.dll
+C:\TFarmer\librarychallenge\LibraryChallengeCoreTests\bin\Debug\nunit.framework.dll
+C:\TFarmer\librarychallenge\LibraryChallengeCoreTests\bin\Debug\LibraryChallengeCore.pdb
+C:\TFarmer\librarychallenge\LibraryChallengeCoreTests\bin\Debug\nunit.framework.xml
+C:\TFarmer\librarychallenge\LibraryChallengeCoreTests\obj\Debug\LibraryChallengeCoreTests.csprojResolveAssemblyReference.cache
+C:\TFarmer\librarychallenge\LibraryChallengeCoreTests\obj\Debug\LibraryChallengeCoreTests.dll
+C:\TFarmer\librarychallenge\LibraryChallengeCoreTests\obj\Debug\LibraryChallengeCoreTests.pdb

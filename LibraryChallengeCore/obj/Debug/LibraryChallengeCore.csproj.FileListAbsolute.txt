@@ -1,0 +1,4 @@
+C:\TFarmer\librarychallenge\LibraryChallengeCore\bin\Debug\LibraryChallengeCore.dll
+C:\TFarmer\librarychallenge\LibraryChallengeCore\bin\Debug\LibraryChallengeCore.pdb
+C:\TFarmer\librarychallenge\LibraryChallengeCore\obj\Debug\LibraryChallengeCore.dll
+C:\TFarmer\librarychallenge\LibraryChallengeCore\obj\Debug\LibraryChallengeCore.pdb
